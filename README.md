@@ -21,8 +21,8 @@ pnpm start
 ```json
 {
   "dependencies": {
-    "@tanstack/react-query": "^4.36.1",
-    "@tanstack/react-query-devtools": "^4.36.1"
+    "@tanstack/react-query": "^5.15.0",
+    "@tanstack/react-query-devtools": "^5.15.0"
   }
 }
 ```
